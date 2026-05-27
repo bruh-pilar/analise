@@ -7,3 +7,4 @@ elif 21<= faixa >= 30:
     print("faixa entre 21 e 30")
 else:
     print("maior que 30")
+    print("test")
